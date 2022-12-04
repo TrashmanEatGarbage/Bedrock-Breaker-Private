@@ -3,9 +3,9 @@
   "id": "bedrock-breaker",
   "version": "${version}",
   "name": "BedrockBreakerAddon",
-  "description": "aposidfjopaehrkqjbflkjbjbvhzpxocvb",
+  "description": "Yeetus' custom shit of a bedrock breaker",
   "authors": [
-    "seasnail"
+    "Yeetus"
   ],
   "contact": {
     "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
@@ -14,7 +14,7 @@
   "environment": "client",
   "entrypoints": {
     "meteor": [
-      "com.skid.bedrockbreaker.BedrockBreaker"
+      "com.Yeetus.bedrockbreaker.Breaker"
     ]
   },
   "mixins": [

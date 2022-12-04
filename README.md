@@ -1,9 +1,6 @@
-# Bedrock Breaker meteor addon
+# Bedrock Breaker meteor addon - YeetustheFeetus edition
 
-I take no credit for anything used in this client I only made this for convenience 
-this is the original mod
-https://github.com/LXYan2333/Fabric-Bedrock-Miner
-
+unlike the other version i made this shit myself
 
 ### How to use:
 - Run the mod with Meteor.
