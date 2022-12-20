@@ -1,6 +1,6 @@
 # Bedrock Breaker meteor addon - YeetustheFeetus edition
 
-unlike the other version i made this shit myself
+no this is not skidded 
 
 is slower as can only break one block at a time but idc
 
