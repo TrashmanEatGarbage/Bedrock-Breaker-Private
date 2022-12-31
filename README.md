@@ -3,6 +3,3 @@
 no this is not skidded 
 
 is slower as can only break one block at a time but idc
-
-### How to use:
-- Run the mod with Meteor.
